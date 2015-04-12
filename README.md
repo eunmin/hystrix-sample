@@ -1,6 +1,8 @@
 # hystrix-sample
 
-FIXME
+[Hystrix][] circuit breaker sample.
+
+[Hystrix]: https://github.com/Netflix/Hystrix
 
 ## Prerequisites
 
